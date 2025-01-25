@@ -35,6 +35,10 @@ npm run format
 ```bash
 quasar build
 ```
+### Rodar a API para desenvolvimento
+```bash
+npm quasar dev
+```
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
