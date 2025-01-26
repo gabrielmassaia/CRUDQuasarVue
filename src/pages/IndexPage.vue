@@ -34,7 +34,7 @@ export default defineComponent({
 
     const getPosts = async () => {
       try {
-        const { data} = await api.get('posts')
+        const { data} = await api.get('p osts')
         posts.value = data
       } catch (error) {
         console.log(error)
